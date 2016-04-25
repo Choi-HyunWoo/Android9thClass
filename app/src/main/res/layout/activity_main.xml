@@ -12,7 +12,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="EX1 비트맵버튼"
+        android:text="EX1 비트맵버튼 ★"
         android:id="@+id/btn_ex1"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
@@ -23,7 +23,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="EX2 "
+        android:text="EX2 복합위젯 ★★★★★"
         android:id="@+id/btn_ex2"
         android:layout_below="@+id/btn_ex1"
         android:layout_alignParentLeft="true"
@@ -34,7 +34,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="EX3"
+        android:text="EX3 리스트뷰 ★"
         android:id="@+id/btn_ex3"
         android:layout_below="@+id/btn_ex2"
         android:layout_alignParentLeft="true"

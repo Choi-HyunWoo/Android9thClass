@@ -7,9 +7,9 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.administrator.android9thclass.Ex2Activity">
+    tools:context=".ex2.Ex2Activity">
 
-    <com.example.administrator.android9thclass.MultiCheckBox
+    <com.example.administrator.android9thclass.ex2.MultiCheckBox
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/multiCheckBox"

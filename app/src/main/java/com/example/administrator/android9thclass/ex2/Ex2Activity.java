@@ -1,11 +1,18 @@
-package com.example.administrator.android9thclass;
+package com.example.administrator.android9thclass.ex2;
 
 import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.widget.Toast;
+
+import com.example.administrator.android9thclass.R;
 
 public class Ex2Activity extends AppCompatActivity {
+
+    /** 복합위젯
+     * MultiCheckBox 클래스
+     * activity_ex2.xml
+     * 참조
+     */
 
     MultiCheckBox multiCheckBox;
 

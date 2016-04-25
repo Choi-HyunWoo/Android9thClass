@@ -1,10 +1,12 @@
-package com.example.administrator.android9thclass;
+package com.example.administrator.android9thclass.ex1;
 
 import android.content.Context;
 import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.widget.Button;
 import android.widget.Toast;
+
+import com.example.administrator.android9thclass.R;
 
 /**
  * Created by Administrator on 2016-04-25.
@@ -26,12 +28,6 @@ public class BitmapButton extends Button {
     public BitmapButton(Context context, AttributeSet attrs) {      // Attribute (속성 set)
         super(context, attrs);
         init();
-
-        String str = "";
-        for (int i=0; i<attrs.getAttributeCount(); i++) {
-            str+="<"+attrs.getAttributeName(i)+">";
-        }
-        Toast.makeText(context, str, Toast.LENGTH_LONG).show();
     }
 
     private void init() {

@@ -1,10 +1,12 @@
-package com.example.administrator.android9thclass;
+package com.example.administrator.android9thclass.ex2;
 
 import android.content.Context;
 import android.util.AttributeSet;
 import android.widget.CheckBox;
 import android.widget.CompoundButton;
 import android.widget.LinearLayout;
+
+import com.example.administrator.android9thclass.R;
 
 /**
  * Created by Administrator on 2016-04-25.

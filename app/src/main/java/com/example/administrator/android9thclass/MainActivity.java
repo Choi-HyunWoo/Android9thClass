@@ -25,16 +25,17 @@ public class MainActivity extends AppCompatActivity {
 
      * 2. 복합위젯 (동영상 Day18-01~) ★★★★★
      *  예제 2)
-     *  부분 화면을 위한 xml 파일을 만들고 checkbox 2개를 합친 위젯 만들어보기
-     *  Has-a Interface 구현으로 Listener 만들어보기
+     * - 부분 화면을 위한 xml 파일을 만들고 checkbox 2개를 합친 위젯 만들어보기
+     * - Has-a Interface 구현으로 Listener 만들어보기
      *  ↑↑↑↑↑
      * ★★★★★ 시험에 꼭 낼 것이다 ★★★★★
      * ... 복잡한 것은 아니고 앞서 만든 Bitmap 버튼에 onMyClick이라는 핸들러를 구현해봐라
 
 
      * 3. 리스트뷰 (스피너/갤러리/그리드뷰...) ★
-     *
-     *
+     *  예제 3)
+     * - 리스트뷰는 "선택 위젯"이기 때문에 Adapter를 사용한다. Adapter를 구현해보자
+     * -
      */
 
     Button btn;
